@@ -1,0 +1,6 @@
+@SistemasChamados_HostAddress = http://localhost:5085
+
+GET {{SistemasChamados_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
